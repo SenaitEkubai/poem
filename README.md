@@ -4,3 +4,4 @@ Roof
 Door 
 window 
 patio 
+A pool 
